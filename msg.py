@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  1 23:42:08 2023
-
-@author: harib
-"""
 
 def msg():
     from pytz import timezone 
