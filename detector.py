@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  1 22:30:52 2023
 
-@author: harib
-"""
 
 cfg_model="ssd_summit.pbtxt"
 f_model="frozen_summit.pb"
