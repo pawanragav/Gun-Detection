@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  1 23:42:23 2023
-
-@author: harib
-"""
 
 import threading
 if __name__ =="__main__":
